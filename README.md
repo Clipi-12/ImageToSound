@@ -48,4 +48,4 @@ Los programas están programados para cerrarse si los archivos necesarios no exi
 
 Además, el programa JSONToSound (el "secundario", con el qe se puede reproducir el contenido de "data.json") se cerrará automáticamente si la resolución del sonido se ha cambiado en el primer pero no en el secundario (únicamente ocurre si se ha modificado el código manualmente, es decir, usando Processing, no los archivos ejecutables).
 
-Si existen otros problemas o errores (que el programa se quede congelado, por ejemplo), contactame en Twitter (@\_Clipi\_) con información como el país del que eres (o mejor dicho, el país con el que tienes configurado el ordenador), el tamaño de la imagen, etc.
+Si existen otros problemas o errores (que el programa se quede congelado, por ejemplo), contactame en Twitter ([@\_Clipi\_](https://twitter.com/_Clipi_)) con información como el país del que eres (o mejor dicho, el país con el que tienes configurado el ordenador), el tamaño de la imagen, etc.
