@@ -7,7 +7,8 @@ Un traductor de imágenes a audio.
 # Requisitos
 
 -Tener Windows o un sistema operativo basado en Linux.
--El único requisito es tener instalado Java8 (en el caso de que queramos abrir la aplicación con el programa para Windows_64_bits).
+
+-Tener instalado Java8 (en el caso de que queramos abrir la aplicación con el programa para Windows_64_bits).
 
 
 
