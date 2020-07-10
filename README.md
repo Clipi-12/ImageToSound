@@ -23,6 +23,7 @@ Una vez la imagen está colocada en la carpeta, solo hace falta abrir el program
 Una vez el programa se está ejecutando puedes elegir a la velocidad a la que procesa la imagen y el audio moviendo el ratón de izquierda a derecha en la pantalla (si el ratón está a la izquierda de la pantalla, el programa se ejecutará de manera más "visual", pero si el ratón está a la derecha de la pantalla, el programa se ejecutará más rápido).
 
 
+
 \* *Si quieres convertir una imagen png a jpg con otro programa tienes que tener en cuenta que el fondo tiene que ser de color negro.*
 
 
