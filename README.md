@@ -22,7 +22,6 @@ Una vez la imagen está colocada en la carpeta, solo hace falta abrir el program
 
 Una vez el programa se está ejecutando puedes elegir a la velocidad a la que procesa la imagen y el audio moviendo el ratón de izquierda a derecha en la pantalla (si el ratón está a la izquierda de la pantalla, el programa se ejecutará de manera más "visual", pero si el ratón está a la derecha de la pantalla, el programa se ejecutará más rápido).
 
- 
 
 \* *Si quieres convertir una imagen png a jpg con otro programa tienes que tener en cuenta que el fondo tiene que ser de color negro.*
 
@@ -35,3 +34,13 @@ Cuando ejecutas el programa, la imágen se va a "traducir" a un sonido, pero tar
 Esto permite que puedas volver a escuchar el sonido que ha producido la imagen que has "traducido" sin tener que volver que ejecutar el otro programa (que puede llegar a ser lento en algunas ocasiones).
 
 Para ejecutar este programa "secundario" y poder escuchar lo que el otro programa ha guardado en el archivo "data.json" solo tienes que abrir el programa que corresponda a tu sistema operativo (data.json_A_Sonido => Ejecutables--Programas) de la misma manera que la otra vez (o con Processing en data.json_A_Sonido => Processing--Codigo).
+
+
+
+# Errores / Problemas / Los programas se cierran automáticamente
+
+Los programas están programados para cerrarse si los archivos necesarios no existen, por lo que si ves que el programa se ha cerrado (o no se ha abierto) asegúrate de que la imagen "input.jpg" existe y no se ha corrompido (para el programa ImageToSound) y que el archivo "data.json" tampoco tenga problemas (para el programa secundario JSONToSound).
+
+Además, el programa JSONToSound (el "secundario", con el qe se puede reproducir el contenido de "data.json") se cerrará automáticamente si la resolución del sonido se ha cambiado en el primer pero no en el secundario (únicamente ocurre si se ha modificado el código manualmente, es decir, usando Processing, no los archivos ejecutables).
+
+Si existen otros problemas o errores (que el programa se quede congelado, por ejemplo), contactame en Twitter (@\_Clipi\_) con información como el país del que eres (o mejor dicho, el país con el que tienes configurado el ordenador), el tamaño de la imagen, etc.
