@@ -12,7 +12,7 @@ Un traductor de imágenes a audio.
 
 
 
-# ¿Cómo funciona?
+# ¿Cómo usar los programas?
 
 Es muy sencillo, solo hace falta una imagen JPG\* de 1024 por 1024 píxeles o menos.
 
