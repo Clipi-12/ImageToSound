@@ -12,6 +12,11 @@ Un traductor de imágenes a audio.
 
 
 
+# ¿Cómo descargar el proyecto?
+Para descargar los programas solo hay descomprimir [este archivo](https://github.com/Clipi-12/ImageToSound/archive/master.zip "Archivo .zip que contiene el proyecto") en una carpeta (con cualquier nombre).
+
+
+
 # ¿Cómo usar los programas?
 
 Es muy sencillo, solo hace falta una imagen JPG\* de 1024 por 1024 píxeles o menos.
