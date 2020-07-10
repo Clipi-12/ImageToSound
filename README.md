@@ -15,7 +15,7 @@ Un traductor de imágenes a audio.
 # ¿Cómo descargar el proyecto?
 Para descargar los programas solo hay descomprimir [este archivo](https://github.com/Clipi-12/ImageToSound/archive/master.zip "Archivo .zip que contiene el proyecto") (205 MB) en una carpeta (con cualquier nombre).
 
-Si piensas que el archivo podría ser potencialmente un virus (lo cual deberías de pensar teniendo en cuenta que estás en internet y lo más probalbe es que no te hayas leído el código o no sepas de programación) te recuerdo que siempre puedes usar tu antivirus de confianza para analizarlo, o incluso [VirusTotal](https://virustotal.com), mi recomendación personal para analizar archivos y URLs de manera gratuita (sé que lo parece, pero no, no estoy patrocinados por ellos).
+Si piensas que el archivo podría ser potencialmente un virus (lo cual deberías de pensar teniendo en cuenta que estás en internet y lo más probalbe es que no te hayas leído el código o no sepas de programación) te recuerdo que siempre puedes usar tu antivirus de confianza para analizarlo, o incluso [VirusTotal](https://virustotal.com), mi recomendación personal para analizar archivos y URLs de manera gratuita (sé que lo parece, pero no, no estoy patrocinado por ellos).
 
 
 
