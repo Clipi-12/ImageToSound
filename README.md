@@ -1,6 +1,8 @@
-# ImageToSound
+# Proyecto
 
-Un traductor de imágenes a audio.
+Este es un traductor que convierte imágenes en audio usando como "recorrido" la [curva de Hilbert](https://es.wikipedia.org/wiki/Curva_de_Hilbert).
+
+Este es un proyecto que junta la idea de [3B1B](https://www.youtube.com/3Blue1Brown) en [este vídeo](https://www.youtube.com/watch?v=3s7h2MHQtxc) y el vídeo de [TheCodingTrain](https://www.youtube.com/shiffman) (Daniel Shiffman) en [este otro vídeo](https://www.youtube.com/watch?v=dSK-MW-zuAc).
 
 
 
