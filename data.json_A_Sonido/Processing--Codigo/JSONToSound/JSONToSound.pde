@@ -33,6 +33,7 @@ void setup() {
     exit();
     return;
   }
+  //sound = new AudioSample(this, resolution, false, int(27.5*resolution));
   sound = new AudioSample(this, resolution, false, int(27.5*resolution));
   resolution128 = resolution/128;
   

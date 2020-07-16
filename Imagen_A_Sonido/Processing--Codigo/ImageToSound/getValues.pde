@@ -12,9 +12,9 @@ void getValues() {
   }
   
   PVector actual = hilbert(n);
-  int value = (image.get(int(actual.x), int(actual.y))&16777215) - 16777216;
+  int value = image.get(int(actual.x), int(actual.y))&16777215;
   values[n] = map(value, 0, 16777216, 0, 1000);
-  set(int(actual.x), int(actual.y), value);
+  set(int(actual.x), int(actual.y), value-16777216);
   
   counter++;
   }

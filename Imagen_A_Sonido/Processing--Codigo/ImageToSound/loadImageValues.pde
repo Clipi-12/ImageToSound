@@ -1,4 +1,4 @@
-// Cargar los píxeles en la imágen "image"
+// Cargar los píxeles en la imagen "image"
 void loadImageValues() {
   loadPixels();
   img.loadPixels();

@@ -158,9 +158,9 @@ public void getValues() {
   }
   
   PVector actual = hilbert(n);
-  int value = (image.get(PApplet.parseInt(actual.x), PApplet.parseInt(actual.y))&16777215) - 16777216;
+  int value = image.get(PApplet.parseInt(actual.x), PApplet.parseInt(actual.y))&16777215;
   values[n] = map(value, 0, 16777216, 0, 1000);
-  set(PApplet.parseInt(actual.x), PApplet.parseInt(actual.y), value);
+  set(PApplet.parseInt(actual.x), PApplet.parseInt(actual.y), value-16777216);
   
   counter++;
   }
@@ -206,7 +206,7 @@ public PVector hilbert(int i) {
   
   
 }
-// Cargar los píxeles en la imágen "image"
+// Cargar los píxeles en la imagen "image"
 public void loadImageValues() {
   loadPixels();
   img.loadPixels();
